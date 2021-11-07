@@ -1,0 +1,72 @@
+/* header section start */
+#topbar img{
+    height: 50px;
+   margin-top: 5px;
+}
+
+#topbar ul {
+    float: right;
+    margin-top: 15px;
+}
+
+#topbar ul li{
+    display: inline;
+}
+
+#topbar ul li a{
+    text-decoration: none;
+    padding: 45px;
+    color: #55556B;
+    font-size: 16px;
+}
+
+.btn{
+    margin-right: 20px;
+    padding: 10px;
+    font-size: 16px;
+    color: #ffffff;
+    
+}
+/* header section end */
+
+.carousel-control-prev-icon
+{
+    background-color: blue;
+}
+
+.carousel-control-next-icon
+{
+    background-color: blue;
+}
+
+.col-md-4 ul li {
+    list-style: none;
+}
+.col-md-4 ul li a {
+    text-decoration: none;
+    color: #55556B;
+    font-size: 16px;
+    
+}
+
+
+.fa-facebook-official{
+    margin-right: 25px;
+   color: blue;
+   background-color: white;
+   font-size: 30px;
+}
+
+.fa-instagram{
+    margin-right: 25px;
+    color: red;
+    background-color: white;
+    font-size: 30px;
+}
+
+.fa-twitter{
+    margin-right: 25px;
+    color: blue;
+   background-color: white;
+   font-size: 30px;
+}
